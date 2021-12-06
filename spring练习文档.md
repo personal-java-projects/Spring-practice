@@ -12,4 +12,4 @@
 
 #### 2、用户和角色的关系
 
-![image-20211206104605616](D:\back_programs\Spring-practice\image-20211206104605616.png)
+![img_table](D:\back_programs\Spring-practice\img_table.png)
