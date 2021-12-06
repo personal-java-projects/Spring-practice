@@ -12,4 +12,4 @@
 
 #### 2、用户和角色的关系
 
-![image-20211206104142733](C:\Users\2948\AppData\Roaming\Typora\typora-user-images\image-20211206104142733.png)
+![image-20211206104605616](D:\back_programs\Spring-practice\image-20211206104605616.png)
